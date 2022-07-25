@@ -1,4 +1,4 @@
-<img src="/josehurtado-github-banner.png" />
+<img src="/josehurtado-github-banner.png" width="100%"  height="auto" />
 
 ### Hi there 👋 My name is Jose Hurtado "AKA" Visual Brands, I have been a Full-stack designer for the past 19 years, working on staff for Commercial & Advertising Agencies serving the Entertainment, Corporate Divisions, Media fields, and Emerging Hispanic Brands.
 
