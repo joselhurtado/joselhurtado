@@ -3,7 +3,6 @@
 <img src="/josehurtado-github-banner.png" width="100%"  height="auto" />
 
 ## I am currently a UX/UI Senior Design Director at DXagency, During my time as a DXer, I’ve worked from wireframes, A/B testing, research, prototypes, user flows and journeys, building personas and also visual explorations following User-Centered Design and design thinking methodologies to deliver validated and the best solutions.
-## I'm constantly learning new things and challenging my own perspectives to improve my skills in UX/UI Design, Web Design and New Technologies. When I'm not designing, you can find me practicing Mountain Bike or also 3D modeling, AR and coding (JS, React & Python). In 2019 moved to Miami from Los Angeles and most importantly, I'm a husband and father of 2 beautiful little girls.
 
 
 
