@@ -7,6 +7,7 @@
 <a href="https://www.linkedin.com/in/joselhurtado/" target="_blank" ><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/2048px-LinkedIn_icon_circle.svg.png" alt="Jose-Hurtado-Linkedin" height="40" width="40" /></a>
 <a href="https://joselhurtado.medium.com/" target="_blank" ><img style="color:#fff" align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968906.png" alt="Jose-Hurtado-Medium" height="40" width="40" /></a>
 <a href="https://www.instagram.com/visualbrands/" target="_blank" ><img style="color:#fff" align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Jose-Hurtado-Instagram" height="40" width="40" /></a>
+<a href="https://www.youtube.com/c/JoseHurtado" target="_blank" ><img style="color:#fff" align="center" src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" alt="Jose-Hurtado-YouTube" height="40" width="40" /></a>
 </p>
 <!--
 **joselhurtado/joselhurtado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
