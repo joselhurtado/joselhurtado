@@ -4,7 +4,7 @@
 
 <p align="left">
 <h4 align="left">Connect with me:</h4>
-<a href="https://www.linkedin.com/in/joselhurtado/" target="blank"><img style="color:#fff" align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="Jose-Hurtado" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/joselhurtado/" target="blank"><img style="color:#fff" align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/2048px-LinkedIn_icon_circle.svg.png" alt="Jose-Hurtado" height="40" width="40" /></a>
 </p>
 
 <!--
