@@ -4,7 +4,8 @@
 
 <p align="left">
 <h4 align="left">Connect with me:</h4>
-<a href="https://www.linkedin.com/in/joselhurtado/" target="blank"><img style="color:#fff" align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/2048px-LinkedIn_icon_circle.svg.png" alt="Jose-Hurtado" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/joselhurtado/" target="blank"><img style="color:#fff" align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/2048px-LinkedIn_icon_circle.svg.png" alt="Jose-Hurtado-Linkedin" height="40" width="40" /></a>
+<a href="https://joselhurtado.medium.com/" target="blank"><img style="color:#fff" align="center" src="https://miro.medium.com/max/1400/1*psYl0y9DUzZWtHzFJLIvTw.png" alt="Jose-Hurtado-Medium" height="40" width="40" /></a>
 </p>
 
 <!--
