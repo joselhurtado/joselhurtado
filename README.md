@@ -1,6 +1,11 @@
 ## Hi there 👋 My name is Jose Hurtado "AKA" Visual Brands, I've been a Full-stack designer for the past 19 years, working for Commercial & Advertising Agencies serving the Entertainment, Corporate Divisions, Media fields, and Emerging Hispanic Brands.
 
-## I'm currently the UX/UI Senior Design Director at DXagency, During my time as a DXer, I’ve worked with Research, Wireframes, A/B Testing, Prototypes, User Flows and Journeys, Building Personas and also Visual Design following User-Centered and Design Thinking methodologies to deliver validated solutions.
+## 💻 I'm currently the UX/UI Senior Design Director at DXagency, During my time as a DXer, I’ve worked with Research, Wireframes, A/B Testing, Prototypes, User Flows and Journeys, Building Personas and also Visual Design following User-Centered and Design Thinking methodologies to deliver validated solutions.
+
+<p align="left">
+<h4 align="left">Connect with me:</h4>
+<a href="https://www.linkedin.com/in/joselhurtado/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Jose-Hurtado" height="40" width="40" /></a>
+</p>
 
 <!--
 **joselhurtado/joselhurtado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
