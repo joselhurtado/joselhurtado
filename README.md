@@ -1,26 +1,11 @@
-## Hi there 👋 My name is Jose Hurtado "AKA" Visual Brands, I've been a 💻 Full-stack designer for the past 19 years, working for Commercial & Advertising Agencies serving the Entertainment, Corporate Divisions, Media fields, and Emerging Hispanic Brands.
+## Jose Hurtado
 
-## 🔴 I'm currently the UX/UI Senior Design Director at DXagency, During my time as a DXer, I’ve worked with 🔭 Research, 📄 Wireframes, 🖥️ A/B Testing, ⚡ Prototypes, 💬 User Flows and Journeys, 👤 Building Personas and also 👁️ Visual Design following 🧠 User-Centered and Design Thinking methodologies to deliver ✅ validated solutions.
+Principal Product Designer. 20+ years of design and design leadership, hands-on through research, design, and code.
 
+- Co-founded a digital agency in Venezuela (2001 to 2009), then ran a design studio in Los Angeles (2009 to 2015).
+- Nestlé USA, Glendale, CA (2015 to 2019): multicultural design across more than 15 product lines.
+- Since 2019: senior design director with US enterprise agency partners, first from Miami, then from Valencia, Spain, and now from Austin, TX.
 
-<p align="left">
-<h4 align="left">Connect with me:</h4>
-<a href="https://www.linkedin.com/in/joselhurtado/" target="_blank" ><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/2048px-LinkedIn_icon_circle.svg.png" alt="Jose-Hurtado-Linkedin" height="40" width="40" /></a>
-<a href="https://joselhurtado.medium.com/" target="_blank" ><img style="color:#fff" align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968906.png" alt="Jose-Hurtado-Medium" height="40" width="40" /></a>
-<a href="https://www.instagram.com/visualbrands/" target="_blank" ><img style="color:#fff" align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Jose-Hurtado-Instagram" height="40" width="40" /></a>
-<a href="https://www.youtube.com/c/JoseHurtado" target="_blank" ><img style="color:#fff" align="center" src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" alt="Jose-Hurtado-YouTube" height="40" width="40" /></a>
-</p>
-<!--
-**joselhurtado/joselhurtado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building [uxuiprinciples.com](https://uxuiprinciples.com), 195 research-backed UX/UI principles, and [Kernex](https://kernex.dev), an open-source Rust runtime for AI agents.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[LinkedIn](https://www.linkedin.com/in/joselhurtado/) · [Medium](https://joselhurtado.medium.com/) · [hurtadojose.com](https://hurtadojose.com)
